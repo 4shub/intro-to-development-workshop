@@ -13,6 +13,7 @@ class App extends Component {
         <p className="App-intro">
           This is a demo of what we can build at HackMerced :)
         </p>
+		<p>New paragraph</p>
         <p>Here's more text!</p>
       </div>
     );
